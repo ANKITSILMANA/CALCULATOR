@@ -7,6 +7,6 @@
 
 #SCREENSHOT
 ![ADDITION]https://github.com/ANKITSILMANA/CALCULATOR/blob/master/addition.png
-![SUBTRACTION]
+![SUBTRACTION]https://github.com/ANKITSILMANA/CALCULATOR/blob/master/subtraction.png
 ![MULTIPLICATION]
 ![DIVISION]
